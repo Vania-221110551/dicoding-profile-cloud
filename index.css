@@ -305,7 +305,7 @@
 .u-section-3 .u-image-1 {
   width: 239px;
   height: 239px;
-  background-image: url("images/vbb.jpg"); /*Profile Picture*/
+  background-image: url("https://storage.googleapis.com/myprofile-picture/profile-pic.jpeg"); /*Profile Picture*/
   background-position: 50% 50%;
   margin: 0 auto;
 }
